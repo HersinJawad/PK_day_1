@@ -1,14 +1,19 @@
 h1 {
     color: white;
     background-color: blue;
-    inline-size: 300px ;
 }
 h2 {
     color:  whitesmoke ;
     background-color: teal;
-    inline-size: 300px;
-    font-weight: bolder red ;
 }
-table {
-    
+h3 {
+    border-color: 300px green;
+    background-color: gray;
+}
+body {
+    background-color: goldenrod;
+}
+
+.jaw > tr>th {
+    padding: 10px;
 }
